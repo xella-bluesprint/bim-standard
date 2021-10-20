@@ -1,3 +1,3 @@
 # bim-standard
 BIM-стандарт Xella по малоэтажному строительству
-Официальный сайт https://promo.ytong.ru/bim
+Официальная страница проекта https://ytong.ru/bim-standard
